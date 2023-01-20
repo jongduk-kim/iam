@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/commons-dbcp-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/commons-digester.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/commons-net-1.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/commons-pool-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/commons-validator.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/datedFileAppender-1.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/msbase.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/mssqlserver.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/msutil.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/poi.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/resolver.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/xbean.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/xbean_xpath.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/xmlbeans-qname.jar"/>
+	<classpathentry kind="lib" path="E:/project/SixtPost/lib/xmlpublic.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

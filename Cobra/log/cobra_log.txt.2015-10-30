@@ -1,0 +1,12 @@
+[INFO ][1] 11:00:06 (5214) [com.run.CobraRun.execute()]
+[INFO ][2] Test Inbound
+[INFO ][1] 11:00:776(5220) [com.run.CobraRun.execute()]
+[INFO ][2] 시작시간 : 20151030110028
+[INFO ][1] 11:08:671(5222) [com.run.CobraRun.execute()]
+[INFO ][2] 종료시간 : 20151030110843
+[INFO ][1] 12:00:05 (5214) [com.run.CobraRun.execute()]
+[INFO ][2] Test Inbound
+[INFO ][1] 12:00:909(5220) [com.run.CobraRun.execute()]
+[INFO ][2] 시작시간 : 20151030120020
+[INFO ][1] 12:09:272(5222) [com.run.CobraRun.execute()]
+[INFO ][2] 종료시간 : 20151030120946

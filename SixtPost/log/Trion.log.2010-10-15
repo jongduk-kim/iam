@@ -1,0 +1,21 @@
+2010-10-15 17:22:55,562 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-15 17:22:55,984 INFO  [main] run.RunUniversity (RunUniversity.java:380)     - ********* 대학 연구비 은행코드  다운로드가 완료 되었습니다. ********** 디비 적재후 백업 폴더로 이동합니다.
+2010-10-15 17:22:57,359 INFO  [main] run.RunUniversity (RunUniversity.java:608)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-15 17:47:44,453 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-15 17:47:45,093 INFO  [main] run.RunUniversity (RunUniversity.java:444)     - ********* 대학 연구비 협약정보  다운로드가 완료 되었습니다. ********** 디비 적재후 백업 폴더로 이동합니다.
+2010-10-15 17:47:54,437 INFO  [main] run.RunUniversity (RunUniversity.java:608)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-15 17:49:11,734 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-15 17:49:12,375 INFO  [main] run.RunUniversity (RunUniversity.java:444)     - ********* 대학 연구비 협약정보  다운로드가 완료 되었습니다. ********** 디비 적재후 백업 폴더로 이동합니다.
+2010-10-15 17:49:20,328 INFO  [main] run.RunUniversity (RunUniversity.java:608)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-15 18:18:22,750 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-15 18:18:23,390 INFO  [main] run.RunUniversity (RunUniversity.java:444)     - ********* 대학 연구비 협약정보  다운로드가 완료 되었습니다. ********** 디비 적재후 백업 폴더로 이동합니다.
+2010-10-15 18:18:30,781 INFO  [main] run.RunUniversity (RunUniversity.java:608)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-15 18:19:31,531 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-15 18:19:32,000 INFO  [main] run.RunUniversity (RunUniversity.java:444)     - ********* 대학 연구비 협약정보  다운로드가 완료 되었습니다. ********** 디비 적재후 백업 폴더로 이동합니다.
+2010-10-15 18:19:33,953 INFO  [main] run.RunUniversity (RunUniversity.java:608)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-15 18:20:07,437 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-15 18:20:08,015 INFO  [main] run.RunUniversity (RunUniversity.java:444)     - ********* 대학 연구비 협약정보  다운로드가 완료 되었습니다. ********** 디비 적재후 백업 폴더로 이동합니다.
+2010-10-15 18:20:11,921 INFO  [main] run.RunUniversity (RunUniversity.java:608)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-15 18:20:26,843 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-15 18:20:27,296 INFO  [main] run.RunUniversity (RunUniversity.java:444)     - ********* 대학 연구비 협약정보  다운로드가 완료 되었습니다. ********** 디비 적재후 백업 폴더로 이동합니다.
+2010-10-15 18:20:29,062 INFO  [main] run.RunUniversity (RunUniversity.java:608)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************

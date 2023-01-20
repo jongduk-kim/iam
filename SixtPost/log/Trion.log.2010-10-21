@@ -1,0 +1,13 @@
+2010-10-21 10:13:19,184 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-21 10:13:19,778 INFO  [main] run.RunUniversity (RunUniversity.java:616)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-21 10:16:00,731 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-21 10:16:01,200 INFO  [main] run.RunUniversity (RunUniversity.java:356)     - ********** 대학 연구비 사용(집행) 현금, 지로, 현물 내역이 존재 하지 않습니다.. **********
+2010-10-21 10:16:01,200 INFO  [main] run.RunUniversity (RunUniversity.java:616)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-21 10:18:23,106 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-21 10:18:24,215 INFO  [main] run.RunUniversity (RunUniversity.java:339)     - ********** 대학 연구비 사용(집행) 현금, 지로, 현물 내역 파일 생성이 완료 되었습니다.. 해당파일을 Server 로 전송 합니다. **********
+2010-10-21 10:18:24,747 INFO  [main] run.RunUniversity (RunUniversity.java:343)     - U10000_JIPHANG_CASH_20101021.txt 파일  전송이 완료 되었습니다. C:/KangWon/send/jiphang_cash/jiphang_cash_backup/ 폴더로 이동합니다. 
+2010-10-21 10:18:24,747 INFO  [main] run.RunUniversity (RunUniversity.java:616)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-21 10:19:15,575 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-21 10:19:16,403 INFO  [main] run.RunUniversity (RunUniversity.java:339)     - ********** 대학 연구비 사용(집행) 현금, 지로, 현물 내역 파일 생성이 완료 되었습니다.. 해당파일을 Server 로 전송 합니다. **********
+2010-10-21 10:19:16,903 INFO  [main] run.RunUniversity (RunUniversity.java:343)     - U10000_JIPHANG_CASH_20101021.txt 파일  전송이 완료 되었습니다. C:/KangWon/send/jiphang_cash/jiphang_cash_backup/ 폴더로 이동합니다. 
+2010-10-21 10:19:16,918 INFO  [main] run.RunUniversity (RunUniversity.java:616)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************

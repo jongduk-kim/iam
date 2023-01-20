@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/project/Cobra/lib/jdic.jar"/>
+	<classpathentry kind="lib" path="E:/project/Cobra/lib/jdom.jar"/>
+	<classpathentry kind="lib" path="E:/project/Cobra/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="E:/project/Cobra/lib/msbase.jar"/>
+	<classpathentry kind="lib" path="E:/project/Cobra/lib/mssqlserver.jar"/>
+	<classpathentry kind="lib" path="E:/project/Cobra/lib/msutil.jar"/>
+	<classpathentry kind="lib" path="E:/project/Cobra/lib/quartz-1.8.5.jar"/>
+	<classpathentry kind="lib" path="E:/project/Cobra/lib/slf4j-api-1.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/project/Cobra/lib/sqljdbc4.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

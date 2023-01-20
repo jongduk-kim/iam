@@ -1,0 +1,125 @@
+2010-10-20 10:29:10,012 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 10:29:45,043 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 10:29:48,090 INFO  [main] run.RunUniversity (RunUniversity.java:570)     - ********* 대학 연구비 카드청구내역  다운로드가 완료 되었습니다. ********** 디비 적재후 백업 폴더로 이동합니다.
+2010-10-20 10:30:40,262 INFO  [main] run.RunUniversity (RunUniversity.java:608)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 10:48:15,747 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 10:48:20,497 INFO  [main] run.RunUniversity (RunUniversity.java:570)     - ********* 대학 연구비 카드청구내역  다운로드가 완료 되었습니다. ********** 디비 적재후 백업 폴더로 이동합니다.
+2010-10-20 10:49:05,606 INFO  [main] run.RunUniversity (RunUniversity.java:608)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 10:50:31,559 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 10:50:33,778 INFO  [main] run.RunUniversity (RunUniversity.java:570)     - ********* 대학 연구비 카드청구내역  다운로드가 완료 되었습니다. ********** 디비 적재후 백업 폴더로 이동합니다.
+2010-10-20 10:51:18,012 INFO  [main] run.RunUniversity (RunUniversity.java:608)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 10:53:44,934 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 10:53:47,278 INFO  [main] run.RunUniversity (RunUniversity.java:570)     - ********* 대학 연구비 카드청구내역  다운로드가 완료 되었습니다. ********** 디비 적재후 백업 폴더로 이동합니다.
+2010-10-20 10:54:31,278 INFO  [main] run.RunUniversity (RunUniversity.java:608)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 10:57:07,106 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 10:57:10,215 INFO  [main] run.RunUniversity (RunUniversity.java:570)     - ********* 대학 연구비 카드청구내역  다운로드가 완료 되었습니다. ********** 디비 적재후 백업 폴더로 이동합니다.
+2010-10-20 10:57:54,528 INFO  [main] run.RunUniversity (RunUniversity.java:608)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 11:03:31,278 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 11:03:33,825 INFO  [main] run.RunUniversity (RunUniversity.java:570)     - ********* 대학 연구비 카드청구내역  다운로드가 완료 되었습니다. ********** 디비 적재후 백업 폴더로 이동합니다.
+2010-10-20 11:04:07,934 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 11:04:10,481 INFO  [main] run.RunUniversity (RunUniversity.java:570)     - ********* 대학 연구비 카드청구내역  다운로드가 완료 되었습니다. ********** 디비 적재후 백업 폴더로 이동합니다.
+2010-10-20 11:05:33,575 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 11:05:36,325 INFO  [main] run.RunUniversity (RunUniversity.java:570)     - ********* 대학 연구비 카드청구내역  다운로드가 완료 되었습니다. ********** 디비 적재후 백업 폴더로 이동합니다.
+2010-10-20 11:06:31,622 INFO  [main] run.RunUniversity (RunUniversity.java:608)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 16:05:48,809 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 16:05:49,512 INFO  [main] run.RunUniversity (RunUniversity.java:379)     - ********* 대학 연구비 사용 집행 (카드) 내역이 존재 하지 않습니다. **********
+2010-10-20 16:05:49,512 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 16:12:45,622 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 16:12:46,075 INFO  [main] run.RunUniversity (RunUniversity.java:379)     - ********* 대학 연구비 사용 집행 (카드) 내역이 존재 하지 않습니다. **********
+2010-10-20 16:12:46,075 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 16:16:18,075 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 16:16:18,590 INFO  [main] run.RunUniversity (RunUniversity.java:379)     - ********* 대학 연구비 사용 집행 (카드) 내역이 존재 하지 않습니다. **********
+2010-10-20 16:16:18,590 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 16:17:33,293 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 16:17:33,762 INFO  [main] run.RunUniversity (RunUniversity.java:379)     - ********* 대학 연구비 사용 집행 (카드) 내역이 존재 하지 않습니다. **********
+2010-10-20 16:17:33,762 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 16:20:24,215 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 16:20:24,684 INFO  [main] run.RunUniversity (RunUniversity.java:379)     - ********* 대학 연구비 사용 집행 (카드) 내역이 존재 하지 않습니다. **********
+2010-10-20 16:20:24,684 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 16:22:00,168 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 16:22:00,653 INFO  [main] run.RunUniversity (RunUniversity.java:379)     - ********* 대학 연구비 사용 집행 (카드) 내역이 존재 하지 않습니다. **********
+2010-10-20 16:22:00,653 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 16:22:35,028 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 16:22:35,512 INFO  [main] run.RunUniversity (RunUniversity.java:379)     - ********* 대학 연구비 사용 집행 (카드) 내역이 존재 하지 않습니다. **********
+2010-10-20 16:22:35,528 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 16:29:02,340 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 16:29:02,965 INFO  [main] run.RunUniversity (RunUniversity.java:379)     - ********* 대학 연구비 사용 집행 (카드) 내역이 존재 하지 않습니다. **********
+2010-10-20 16:29:02,965 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 16:30:07,778 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 16:30:08,278 INFO  [main] run.RunUniversity (RunUniversity.java:379)     - ********* 대학 연구비 사용 집행 (카드) 내역이 존재 하지 않습니다. **********
+2010-10-20 16:30:08,278 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 16:31:49,543 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 16:31:50,043 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 16:47:47,762 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 16:47:48,309 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 16:48:55,215 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 16:48:55,684 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 16:49:37,153 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 16:49:37,590 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 17:03:45,825 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 17:03:46,434 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 17:19:56,872 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 17:19:57,622 INFO  [main] run.RunUniversity (RunUniversity.java:376)     - ********** 대학 연구비 사용(집행) 카드  내역이 존재 하지 않습니다. **********
+2010-10-20 17:19:57,622 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 17:21:38,793 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 17:21:39,403 INFO  [main] run.RunUniversity (RunUniversity.java:376)     - ********** 대학 연구비 사용(집행) 카드  내역이 존재 하지 않습니다. **********
+2010-10-20 17:21:39,403 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 17:23:18,872 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 17:23:19,465 INFO  [main] run.RunUniversity (RunUniversity.java:362)     - ********** 대학 연구비 사용(집행) 카드사용  내역 파일 생성이 완료 되었습니다.. 해당파일을 Server 로 전송 합니다. **********
+2010-10-20 17:23:20,153 INFO  [main] run.RunUniversity (RunUniversity.java:366)     - U10000_JIPHANG_CARD_20101020.txt 파일  전송이 완료 되었습니다. C:/KangWon/send/jiphang_card/jiphang_card_backup/ 폴더로 이동합니다. 
+2010-10-20 17:23:20,168 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 17:27:27,778 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 17:27:28,387 INFO  [main] run.RunUniversity (RunUniversity.java:362)     - ********** 대학 연구비 사용(집행) 카드사용  내역 파일 생성이 완료 되었습니다.. 해당파일을 Server 로 전송 합니다. **********
+2010-10-20 17:27:28,715 INFO  [main] run.RunUniversity (RunUniversity.java:366)     - U10000_JIPHANG_CARD_20101020.txt 파일  전송이 완료 되었습니다. C:/KangWon/send/jiphang_card/jiphang_card_backup/ 폴더로 이동합니다. 
+2010-10-20 17:27:28,731 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 17:27:48,809 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 17:27:49,403 INFO  [main] run.RunUniversity (RunUniversity.java:362)     - ********** 대학 연구비 사용(집행) 카드사용  내역 파일 생성이 완료 되었습니다.. 해당파일을 Server 로 전송 합니다. **********
+2010-10-20 17:27:49,700 INFO  [main] run.RunUniversity (RunUniversity.java:366)     - U10000_JIPHANG_CARD_20101020.txt 파일  전송이 완료 되었습니다. C:/KangWon/send/jiphang_card/jiphang_card_backup/ 폴더로 이동합니다. 
+2010-10-20 17:27:49,700 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 17:31:26,075 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 17:31:26,918 INFO  [main] run.RunUniversity (RunUniversity.java:362)     - ********** 대학 연구비 사용(집행) 카드사용  내역 파일 생성이 완료 되었습니다.. 해당파일을 Server 로 전송 합니다. **********
+2010-10-20 17:31:27,293 INFO  [main] run.RunUniversity (RunUniversity.java:366)     - U10000_JIPHANG_CARD_20101020.txt 파일  전송이 완료 되었습니다. C:/KangWon/send/jiphang_card/jiphang_card_backup/ 폴더로 이동합니다. 
+2010-10-20 17:31:27,293 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 17:32:41,856 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 17:32:42,231 INFO  [main] run.RunUniversity (RunUniversity.java:379)     - ********* 대학 연구비 사용(집행) 카드  내역이 존재 하지 않습니다.**********
+2010-10-20 17:32:42,231 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 17:32:49,012 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 17:32:49,622 INFO  [main] run.RunUniversity (RunUniversity.java:362)     - ********** 대학 연구비 사용(집행) 카드사용  내역 파일 생성이 완료 되었습니다.. 해당파일을 Server 로 전송 합니다. **********
+2010-10-20 17:32:49,965 INFO  [main] run.RunUniversity (RunUniversity.java:366)     - U10000_JIPHANG_CARD_20101020.txt 파일  전송이 완료 되었습니다. C:/KangWon/send/jiphang_card/jiphang_card_backup/ 폴더로 이동합니다. 
+2010-10-20 17:32:49,965 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 17:34:50,215 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 17:34:50,793 INFO  [main] run.RunUniversity (RunUniversity.java:362)     - ********** 대학 연구비 사용(집행) 카드사용  내역 파일 생성이 완료 되었습니다.. 해당파일을 Server 로 전송 합니다. **********
+2010-10-20 17:34:51,137 INFO  [main] run.RunUniversity (RunUniversity.java:366)     - U10000_JIPHANG_CARD_20101020.txt 파일  전송이 완료 되었습니다. C:/KangWon/send/jiphang_card/jiphang_card_backup/ 폴더로 이동합니다. 
+2010-10-20 17:34:51,153 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 17:36:07,809 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 17:36:08,418 INFO  [main] run.RunUniversity (RunUniversity.java:362)     - ********** 대학 연구비 사용(집행) 카드사용  내역 파일 생성이 완료 되었습니다.. 해당파일을 Server 로 전송 합니다. **********
+2010-10-20 17:36:08,825 INFO  [main] run.RunUniversity (RunUniversity.java:366)     - U10000_JIPHANG_CARD_20101020.txt 파일  전송이 완료 되었습니다. C:/KangWon/send/jiphang_card/jiphang_card_backup/ 폴더로 이동합니다. 
+2010-10-20 17:36:08,825 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 17:57:54,528 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 17:57:55,231 INFO  [main] run.RunUniversity (RunUniversity.java:362)     - ********** 대학 연구비 사용(집행) 카드사용  내역 파일 생성이 완료 되었습니다.. 해당파일을 Server 로 전송 합니다. **********
+2010-10-20 17:57:55,653 INFO  [main] run.RunUniversity (RunUniversity.java:366)     - U10000_JIPHANG_CARD_20101020.txt 파일  전송이 완료 되었습니다. C:/KangWon/send/jiphang_card/jiphang_card_backup/ 폴더로 이동합니다. 
+2010-10-20 17:57:55,653 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 18:19:29,840 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 18:19:49,762 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 18:19:50,497 INFO  [main] run.RunUniversity (RunUniversity.java:362)     - ********** 대학 연구비 사용(집행) 카드사용  내역 파일 생성이 완료 되었습니다.. 해당파일을 Server 로 전송 합니다. **********
+2010-10-20 18:19:50,965 INFO  [main] run.RunUniversity (RunUniversity.java:366)     - U10000_JIPHANG_CARD_20101020.txt 파일  전송이 완료 되었습니다. C:/KangWon/send/jiphang_card/jiphang_card_backup/ 폴더로 이동합니다. 
+2010-10-20 18:19:50,965 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 18:23:19,715 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 18:23:20,559 INFO  [main] run.RunUniversity (RunUniversity.java:362)     - ********** 대학 연구비 사용(집행) 카드사용  내역 파일 생성이 완료 되었습니다.. 해당파일을 Server 로 전송 합니다. **********
+2010-10-20 18:23:20,997 INFO  [main] run.RunUniversity (RunUniversity.java:366)     - U10000_JIPHANG_CARD_20101020.txt 파일  전송이 완료 되었습니다. C:/KangWon/send/jiphang_card/jiphang_card_backup/ 폴더로 이동합니다. 
+2010-10-20 18:23:20,997 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 18:23:35,590 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 18:23:35,934 INFO  [main] run.RunUniversity (RunUniversity.java:379)     - ********* 대학 연구비 사용(집행) 카드  내역이 존재 하지 않습니다.**********
+2010-10-20 18:23:35,934 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 18:23:48,434 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 18:23:49,028 INFO  [main] run.RunUniversity (RunUniversity.java:362)     - ********** 대학 연구비 사용(집행) 카드사용  내역 파일 생성이 완료 되었습니다.. 해당파일을 Server 로 전송 합니다. **********
+2010-10-20 18:23:49,340 INFO  [main] run.RunUniversity (RunUniversity.java:366)     - U10000_JIPHANG_CARD_20101020.txt 파일  전송이 완료 되었습니다. C:/KangWon/send/jiphang_card/jiphang_card_backup/ 폴더로 이동합니다. 
+2010-10-20 18:23:49,340 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 18:25:15,762 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 18:25:16,356 INFO  [main] run.RunUniversity (RunUniversity.java:362)     - ********** 대학 연구비 사용(집행) 카드사용  내역 파일 생성이 완료 되었습니다.. 해당파일을 Server 로 전송 합니다. **********
+2010-10-20 18:25:16,793 INFO  [main] run.RunUniversity (RunUniversity.java:366)     - U10000_JIPHANG_CARD_20101020.txt 파일  전송이 완료 되었습니다. C:/KangWon/send/jiphang_card/jiphang_card_backup/ 폴더로 이동합니다. 
+2010-10-20 18:25:16,793 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************
+2010-10-20 18:25:41,372 INFO  [main] run.RunUniversity (RunUniversity.java:112)     - ************************ 강원대 대학 연구비  시스템  Server Sending & Receive Process Start  ************************
+2010-10-20 18:25:41,965 INFO  [main] run.RunUniversity (RunUniversity.java:362)     - ********** 대학 연구비 사용(집행) 카드사용  내역 파일 생성이 완료 되었습니다.. 해당파일을 Server 로 전송 합니다. **********
+2010-10-20 18:25:42,356 INFO  [main] run.RunUniversity (RunUniversity.java:366)     - U10000_JIPHANG_CARD_20101020.txt 파일  전송이 완료 되었습니다. C:/KangWon/send/jiphang_card/jiphang_card_backup/ 폴더로 이동합니다. 
+2010-10-20 18:25:42,372 INFO  [main] run.RunUniversity (RunUniversity.java:614)     - ************************ 대학 연구비  시스템  Server 전송  Process End  ************************

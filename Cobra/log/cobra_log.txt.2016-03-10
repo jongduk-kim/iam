@@ -1,0 +1,160 @@
+[INFO ][1] 10:35:93 (5221) [com.run.CobraRun.execute()]
+[INFO ][2] 시작시간 : 20160310103500
+[INFO ][1] 10:35:837(2166) [com.run.CobraRun.getInboundDetl()]
+[INFO ][2] 인바운드예약번호|9833788225|
+[INFO ][1] 10:35:488(2029) [com.run.CobraRun.requestReservaionDetl()]
+[INFO ][2] 인바운드예약상세정보요청 Exception():javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[INFO ][1] 10:35:488(2030) [com.run.CobraRun.requestReservaionDetl()]
+[INFO ][2] javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[INFO ][1] 10:35:798(2184) [com.run.CobraRun.getInboundDetl()]
+[INFO ][2] e.toString():java.lang.StringIndexOutOfBoundsException: String index out of range: 8
+[INFO ][1] 10:35:849(5225) [com.run.CobraRun.execute()]
+[INFO ][2] 종료시간 : 20160310103511
+[INFO ][1] 10:44:33 (5223) [com.run.CobraRun.execute()]
+[INFO ][2] 시작시간 : 20160310104400
+[INFO ][1] 10:44:443(2168) [com.run.CobraRun.getInboundDetl()]
+[INFO ][2] 인바운드예약번호|9833788225|
+[INFO ][1] 10:44:162(2029) [com.run.CobraRun.requestReservaionDetl()]
+[INFO ][2] 인바운드예약상세정보요청 Exception():javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[INFO ][1] 10:44:163(2030) [com.run.CobraRun.requestReservaionDetl()]
+[INFO ][2] javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[INFO ][1] 10:44:468(2186) [com.run.CobraRun.getInboundDetl()]
+[INFO ][2] e.toString():java.lang.StringIndexOutOfBoundsException: String index out of range: 8
+[INFO ][1] 10:44:522(5227) [com.run.CobraRun.execute()]
+[INFO ][2] 종료시간 : 20160310104411
+[INFO ][1] 10:45:18 (5224) [com.run.CobraRun.execute()]
+[INFO ][2] 시작시간 : 20160310104500
+[INFO ][1] 10:45:147(2169) [com.run.CobraRun.getInboundDetl()]
+[INFO ][2] 인바운드예약번호|9833788225|
+[INFO ][1] 10:45:842(2030) [com.run.CobraRun.requestReservaionDetl()]
+[INFO ][2] 인바운드예약상세정보요청 Exception():javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[INFO ][1] 10:45:843(2031) [com.run.CobraRun.requestReservaionDetl()]
+[INFO ][2] javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[INFO ][1] 10:45:146(2187) [com.run.CobraRun.getInboundDetl()]
+[INFO ][2] e.toString():java.lang.StringIndexOutOfBoundsException: String index out of range: 8
+[INFO ][1] 10:45:197(5228) [com.run.CobraRun.execute()]
+[INFO ][2] 종료시간 : 20160310104511
+[INFO ][1] 10:49:08 (5224) [com.run.CobraRun.execute()]
+[INFO ][2] 시작시간 : 20160310104900
+[INFO ][1] 10:49:400(2169) [com.run.CobraRun.getInboundDetl()]
+[INFO ][2] 인바운드예약번호........|9833788225|
+[INFO ][1] 10:49:101(2030) [com.run.CobraRun.requestReservaionDetl()]
+[INFO ][2] 인바운드예약상세정보요청 Exception():javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[INFO ][1] 10:49:102(2031) [com.run.CobraRun.requestReservaionDetl()]
+[INFO ][2] javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[INFO ][1] 10:49:406(2187) [com.run.CobraRun.getInboundDetl()]
+[INFO ][2] e.toString():java.lang.StringIndexOutOfBoundsException: String index out of range: 8
+[INFO ][1] 10:49:469(5228) [com.run.CobraRun.execute()]
+[INFO ][2] 종료시간 : 20160310104911
+[INFO ][1] 10:51:32 (5225) [com.run.CobraRun.execute()]
+[INFO ][2] 시작시간 : 20160310105100
+[INFO ][1] 10:51:241(2170) [com.run.CobraRun.getInboundDetl()]
+[INFO ][2] 인바운드예약번호........|9833788225|
+[INFO ][1] 10:51:936(2031) [com.run.CobraRun.requestReservaionDetl()]
+[INFO ][2] 인바운드예약상세정보요청 Exception():javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[INFO ][1] 10:51:937(2032) [com.run.CobraRun.requestReservaionDetl()]
+[INFO ][2] javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[INFO ][1] 10:51:240(2188) [com.run.CobraRun.getInboundDetl()]
+[INFO ][2] e.toString():java.lang.StringIndexOutOfBoundsException: String index out of range: 8
+[INFO ][1] 10:51:284(5229) [com.run.CobraRun.execute()]
+[INFO ][2] 종료시간 : 20160310105111
+[INFO ][1] 10:54:21 (5227) [com.run.CobraRun.execute()]
+[INFO ][2] 시작시간 : 20160310105400
+[INFO ][1] 10:54:731(2063) [com.run.CobraRun.requestReservaionNoList()]
+[INFO ][2] aaaaaaaaaaaa
+[INFO ][1] 10:54:732(2065) [com.run.CobraRun.requestReservaionNoList()]
+[INFO ][2] bbbbbbbbbbb
+[INFO ][1] 10:54:785(2067) [com.run.CobraRun.requestReservaionNoList()]
+[INFO ][2] cccccccccccc
+[INFO ][1] 10:54:785(2072) [com.run.CobraRun.requestReservaionNoList()]
+[INFO ][2] ddddddddddddddddddddddddddddddddda
+[INFO ][1] 10:54:129(2172) [com.run.CobraRun.getInboundDetl()]
+[INFO ][2] 인바운드예약번호........|9833788225|
+[INFO ][1] 10:54:788(2031) [com.run.CobraRun.requestReservaionDetl()]
+[INFO ][2] 인바운드예약상세정보요청 Exception():javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[INFO ][1] 10:54:789(2032) [com.run.CobraRun.requestReservaionDetl()]
+[INFO ][2] javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[INFO ][1] 10:54:93 (2190) [com.run.CobraRun.getInboundDetl()]
+[INFO ][2] e.toString():java.lang.StringIndexOutOfBoundsException: String index out of range: 8
+[INFO ][1] 10:54:151(5231) [com.run.CobraRun.execute()]
+[INFO ][2] 종료시간 : 20160310105411
+[INFO ][1] 10:57:34 (5227) [com.run.CobraRun.execute()]
+[INFO ][2] ==========================** Inbound 예약정보 수신 모듈 Start **==========================================
+[INFO ][1] 10:57:38 (5228) [com.run.CobraRun.execute()]
+[INFO ][2] 시작시간 : 20160310105700
+[INFO ][1] 10:57:759(2063) [com.run.CobraRun.requestReservaionNoList()]
+[INFO ][2] aaaaaaaaaaaa
+[INFO ][1] 10:57:760(2065) [com.run.CobraRun.requestReservaionNoList()]
+[INFO ][2] bbbbbbbbbbb
+[INFO ][1] 10:57:813(2067) [com.run.CobraRun.requestReservaionNoList()]
+[INFO ][2] cccccccccccc
+[INFO ][1] 10:57:813(2072) [com.run.CobraRun.requestReservaionNoList()]
+[INFO ][2] ddddddddddddddddddddddddddddddddda
+[INFO ][1] 10:57:178(2172) [com.run.CobraRun.getInboundDetl()]
+[INFO ][2] 인바운드예약번호........|9833788225|
+[INFO ][1] 10:57:812(2031) [com.run.CobraRun.requestReservaionDetl()]
+[INFO ][2] 인바운드예약상세정보요청 Exception():javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[INFO ][1] 10:57:812(2032) [com.run.CobraRun.requestReservaionDetl()]
+[INFO ][2] javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[INFO ][1] 10:57:113(2190) [com.run.CobraRun.getInboundDetl()]
+[INFO ][2] e.toString():java.lang.StringIndexOutOfBoundsException: String index out of range: 8
+[INFO ][1] 10:57:149(5232) [com.run.CobraRun.execute()]
+[INFO ][2] 종료시간 : 20160310105711
+[INFO ][1] 10:57:149(5233) [com.run.CobraRun.execute()]
+[INFO ][2] ==========================** Inbound 예약정보 수신 모듈 End   **==========================================
+[INFO ][1] 10:59:20 (5227) [com.run.CobraRun.execute()]
+[INFO ][2] ==========================** Inbound 예약정보 수신 모듈 Start **==========================================
+[INFO ][1] 10:59:24 (5228) [com.run.CobraRun.execute()]
+[INFO ][2] 시작시간 : 20160310105900
+[INFO ][1] 10:59:758(2063) [com.run.CobraRun.requestReservaionNoList()]
+[INFO ][2] aaaaaaaaaaaa
+[INFO ][1] 10:59:760(2065) [com.run.CobraRun.requestReservaionNoList()]
+[INFO ][2] bbbbbbbbbbb
+[INFO ][1] 10:59:813(2067) [com.run.CobraRun.requestReservaionNoList()]
+[INFO ][2] cccccccccccc
+[INFO ][1] 10:59:813(2072) [com.run.CobraRun.requestReservaionNoList()]
+[INFO ][2] ddddddddddddddddddddddddddddddddda
+[INFO ][1] 10:59:592(5232) [com.run.CobraRun.execute()]
+[INFO ][2] 종료시간 : 20160310105905
+[INFO ][1] 10:59:593(5233) [com.run.CobraRun.execute()]
+[INFO ][2] ==========================** Inbound 예약정보 수신 모듈 End   **==========================================
+[INFO ][1] 11:24:29 (5227) [com.run.CobraRun.execute()]
+[INFO ][2] ==========================** Inbound 예약정보 수신 모듈 Start **==========================================
+[INFO ][1] 11:24:36 (5228) [com.run.CobraRun.execute()]
+[INFO ][2] 시작시간 : 20160310112400
+[INFO ][1] 11:24:754(2063) [com.run.CobraRun.requestReservaionNoList()]
+[INFO ][2] aaaaaaaaaaaa
+[INFO ][1] 11:24:755(2065) [com.run.CobraRun.requestReservaionNoList()]
+[INFO ][2] bbbbbbbbbbb
+[INFO ][1] 11:24:809(2067) [com.run.CobraRun.requestReservaionNoList()]
+[INFO ][2] cccccccccccc
+[INFO ][1] 11:24:809(2072) [com.run.CobraRun.requestReservaionNoList()]
+[INFO ][2] ddddddddddddddddddddddddddddddddda
+[INFO ][1] 11:24:567(5232) [com.run.CobraRun.execute()]
+[INFO ][2] 종료시간 : 20160310112405
+[INFO ][1] 11:24:568(5233) [com.run.CobraRun.execute()]
+[INFO ][2] ==========================** Inbound 예약정보 수신 모듈 End   **==========================================
+[INFO ][1] 11:25:20 (5227) [com.run.CobraRun.execute()]
+[INFO ][2] ==========================** Inbound 예약정보 수신 모듈 Start **==========================================
+[INFO ][1] 11:25:27 (5228) [com.run.CobraRun.execute()]
+[INFO ][2] 시작시간 : 20160310112500
+[INFO ][1] 11:25:788(2063) [com.run.CobraRun.requestReservaionNoList()]
+[INFO ][2] aaaaaaaaaaaa
+[INFO ][1] 11:25:789(2065) [com.run.CobraRun.requestReservaionNoList()]
+[INFO ][2] bbbbbbbbbbb
+[INFO ][1] 11:25:843(2067) [com.run.CobraRun.requestReservaionNoList()]
+[INFO ][2] cccccccccccc
+[INFO ][1] 11:25:843(2072) [com.run.CobraRun.requestReservaionNoList()]
+[INFO ][2] ddddddddddddddddddddddddddddddddda
+[INFO ][1] 11:25:335(2172) [com.run.CobraRun.getInboundDetl()]
+[INFO ][2] 인바운드예약번호........|9833788225|
+[INFO ][1] 11:25:41 (2031) [com.run.CobraRun.requestReservaionDetl()]
+[INFO ][2] 인바운드예약상세정보요청 Exception():javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[INFO ][1] 11:25:42 (2032) [com.run.CobraRun.requestReservaionDetl()]
+[INFO ][2] javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[INFO ][1] 11:25:346(2190) [com.run.CobraRun.getInboundDetl()]
+[INFO ][2] e.toString():java.lang.StringIndexOutOfBoundsException: String index out of range: 8
+[INFO ][1] 11:25:392(5232) [com.run.CobraRun.execute()]
+[INFO ][2] 종료시간 : 20160310112511
+[INFO ][1] 11:25:392(5233) [com.run.CobraRun.execute()]
+[INFO ][2] ==========================** Inbound 예약정보 수신 모듈 End   **==========================================
