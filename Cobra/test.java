@@ -8,7 +8,7 @@ import com.property.CobraProperty;
 public class test {
 	
 	
-	
+	/*
 	
 	private String insert(String rsNumber) {
 		StringBuffer sb = new StringBuffer();
@@ -25,6 +25,7 @@ public class test {
 		
 		return sb.toString();
 	}
+	*/
 	
 	private String queryInbound() {
 		StringBuffer sb = new StringBuffer();
