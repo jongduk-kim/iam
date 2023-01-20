@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Oct 29 14:14:13 KST 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=false
+onejar.checkbox=false
+jarname=Cobra_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.scheduler.StartCobra
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|Cobra>~com/~run/~CobraRun_Backup.class;<po|Cobra>~com/~run/~CobraRun_Backup.java;<po|Cobra>~com/~run/~SystemTrayCSUA$1.class;<po|Cobra>~com/~run/~SystemTrayCSUA$2.class;<po|Cobra>~com/~run/~SystemTrayCSUA.class;<po|Cobra>~com/~run/~SystemTrayCSUA.java;<po|Cobra>~com/~run/~TextFrame.class;<po|Cobra>~com/~run/~TextFrame.java;<po|Cobra>~img/;<po|Cobra>~lib/~cobra.jar;<po|Cobra>~lib/~tray.dll;<po|Cobra>~log/;<po|Cobra>~META-INF/;<po|Cobra>~.classpath;<po|Cobra>~.fatjar;<po|Cobra>~.project;<po|Cobra>~log4j.properties;<po|Cobra>~RunInbound.bat
+includes=
