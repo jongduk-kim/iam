@@ -1,5 +1,8 @@
 
 public class Test2 {
+	public Test2() {
+		
+	}
 	/**
 	 * @param args
 	 */
@@ -10,4 +13,6 @@ public class Test2 {
 		System.out.println(str.replaceAll("'", ""));
 		System.out.println(str.replaceAll("'", "").replaceAll("-", ""));
 	}
+	
+	
 }
